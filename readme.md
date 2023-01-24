@@ -8,7 +8,7 @@ The raw data and build files for ressenger - ultralight and secure Messenger Rea
 
 The raw repository that contains data of:
 - [deno-modern-installer](https://deno.land/x/modern_installer): for building and bundling
-- [denojs-framework](https://gluonjs.org/): for handling web-based behaviour
+- [gluonjs-framework](https://gluonjs.org/): for handling web-based behaviour
 - and finally: `deno_ressenger_raw\gluon-deno\ressenger`:
 
 [thanks to `guonjs` it can be rebuilt to handle any website]
