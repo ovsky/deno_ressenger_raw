@@ -21,7 +21,7 @@ https://github.com/ovsky/deno_ressenger_raw/releases
 Run:  
 ```shell
 cd gluon-deno\ressenger
-deno compile index.js
+deno compile -A --unstable index.js
 deno run -A --unstable build.ts
 ```
 
